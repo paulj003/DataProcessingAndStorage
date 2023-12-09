@@ -1,4 +1,5 @@
 **Instructions**  
+Make sure you have the GNU Compiler Collection downloaded (This is to use the g++ command).  
 Clone or download the repository.  
 Open the main.cpp file and add method calls to the in memory database in the main method.  
 Open a terminal locally that is in the same folder as the repository.  
